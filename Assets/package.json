@@ -1,0 +1,17 @@
+{
+    "name": "com.mgs.geometry",
+    "version": "1.0.0",
+    "displayName": "Geometry",
+    "description": "Geometry method to calculate distance, relation and intersection.",
+    "unity": "2021.3",
+    "keywords": [
+        "geometry",
+        "relation",
+        "intersection"
+    ],
+    "author": {
+        "name": "Mogoson",
+        "email": "mogoson@outlook.com",
+        "url": "https://github.com/mogoson"
+    }
+}
